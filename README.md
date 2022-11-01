@@ -79,7 +79,7 @@ for fname in images:
 
 
 # 📷 Screenshot(result) 
-- 단위 : cm
+- 직육면체는 가로, 세로, 높이가 출력되고 원통은 지름, 높이가 cm 단위로 출력이 됩니다.
 - hexahedron
 ![image](https://drive.google.com/uc?export=view&id=16XEimDh3hfWV0f0Ds8dpFusU5i7LtNC8)
 - cylinder
